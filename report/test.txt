@@ -1,0 +1,11 @@
+LIPID PROFILE REPORT
+Patient: John Doe
+Date: 22 July 2026
+
+Total Cholesterol: 245 mg/dL
+LDL Cholesterol: 165 mg/dL
+HDL Cholesterol: 38 mg/dL
+Triglycerides: 210 mg/dL
+VLDL: 42 mg/dL
+
+Lab: City Diagnostic Center

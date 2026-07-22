@@ -1,0 +1,10 @@
+streamlit 
+loguru 
+pdfplumber 
+PyMuPDF 
+pandas 
+openpyxl 
+python-dotenv 
+groq 
+requests 
+pillow

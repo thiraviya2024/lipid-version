@@ -1,0 +1,7 @@
+{
+  "total_cholesterol": ["total cholesterol", "cholesterol total", "tc", "chol"],
+  "hdl": ["hdl", "hdl-c", "hdl cholesterol"],
+  "ldl": ["ldl", "ldl-c", "ldl cholesterol"],
+  "triglycerides": ["triglycerides", "tg", "triglyceride"],
+  "vldl": ["vldl"]
+}

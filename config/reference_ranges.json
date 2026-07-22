@@ -1,0 +1,6 @@
+{
+  "total_cholesterol": {"unit": "mg/dL"},
+  "hdl": {"unit": "mg/dL"},
+  "ldl": {"unit": "mg/dL"},
+  "triglycerides": {"unit": "mg/dL"}
+}
