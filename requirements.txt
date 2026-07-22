@@ -1,11 +1,12 @@
 streamlit
-python-docx
+groq
+python-dotenv
+loguru
 pdfplumber
 PyMuPDF
-loguru
-python-dotenv
-groq
+python-docx
 pandas
 openpyxl
+plotly
 Pillow
 requests
